@@ -1,1 +1,10 @@
 .DS_Store
+
+.gradle
+!gradle/wrapper/gradle-wrapper.jar
+
+/build/
+/bin/
+
+.project
+.settings
