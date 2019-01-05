@@ -1,0 +1,3 @@
+include 'cart-service'
+include 'order-service'
+include 'warehouse-service'
